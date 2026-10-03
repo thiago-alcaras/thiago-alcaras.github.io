@@ -17,3 +17,7 @@ Sirva a raiz com um servidor HTTP estático. Mantenha caminhos relativos para co
 ## Verificação
 
 Confira desktop e mobile, ausência de rolagem horizontal, imagens, âncoras, filtros por mouse/teclado e funcionamento sem JavaScript. Mantenha `prefers-reduced-motion`, textos alternativos e foco visível.
+
+## CodeCampus (03/10/2026)
+
+Adicionado projeto full stack de educação para programação, com API FastAPI, SQLAlchemy/PostgreSQL, turmas, projetos e avaliações. Integração S3 e infraestrutura privada implementadas; implantação AWS não realizada. Trilhas originais de engenharia/IA para adolescentes. Somente código e exemplos fictícios no repositório público. O painel do portfólio é uma ilustração tipográfica original.
