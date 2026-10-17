@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-labelledby="title">
+  <title id="title">Vizin</title>
+  <defs><linearGradient id="mark" x1="8" y1="8" x2="48" y2="52" gradientUnits="userSpaceOnUse"><stop stop-color="#36bd96"/><stop offset="1" stop-color="#087c68"/></linearGradient></defs>
+  <g transform="translate(5 4)"><path d="M27 2C13.2 2 2 13.1 2 26.7c0 18.1 25 31.3 25 31.3s25-13.2 25-31.3C52 13.1 40.8 2 27 2Z" fill="url(#mark)"/><path d="m13 27 9 9 19-19" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.5"/></g>
+  <text x="66" y="45" fill="#173d35" font-family="Manrope, Inter, Arial, sans-serif" font-size="38" font-weight="750" letter-spacing="-2">Vizin</text>
+</svg>
