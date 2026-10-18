@@ -18,3 +18,19 @@
 .sinton-art{background:radial-gradient(ellipse at 80% 0%,#d9d9e8,transparent 65%),#eeedf4;color:#282731}.sinton-visual{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:12px;min-height:240px;padding:20px}.sinton-visual img{object-fit:contain;border-radius:26px}.sinton-visual p{margin:0;text-align:center;font-size:30px;line-height:1.1;letter-spacing:-1px}.sinton-visual p em{font-style:normal;color:#696478}.sinton-visual>span{font-size:8px;letter-spacing:1.5px;color:#716d7d}
 
 .vizin-art{background:radial-gradient(ellipse at 50% 10%,#d7f0e7,transparent 70%),#edf5f1;color:#173d35}.vizin-visual{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;min-height:240px;padding:14px}.vizin-visual img{width:112px;height:112px;object-fit:contain;border-radius:23px}.vizin-visual p{margin:0;text-align:center;font:600 28px/1.1 var(--heading);letter-spacing:-1px}.vizin-visual p em{font-style:normal;color:#18866d}.vizin-visual>span{font-size:8px;letter-spacing:1.4px;color:#5c7c70}
+
+/* Branded project cards share one centered logo-and-copy composition. */
+.sinton-art,.vizin-art,.leadlocal-art,.codecampus-art{display:flex;flex-direction:column}
+.project-brand-visual{display:flex;flex:1;min-height:0;flex-direction:column;align-items:center;justify-content:center;gap:6px;padding:0 10px;text-align:center}
+.project-brand-visual img{width:112px;height:112px;object-fit:contain;border-radius:23px;flex-shrink:0}
+.project-brand-visual p{margin:0;text-align:center;font:600 26px/1.1 var(--heading);letter-spacing:-1px}
+.project-brand-visual p em{font-style:normal}
+.project-brand-visual>span{font-size:8px;letter-spacing:1.3px}
+.sinton-art{background:radial-gradient(ellipse at 80% 0%,#d9d9e8,transparent 65%),#eeedf4;color:#282731}
+.sinton-visual p em{color:#696478}.sinton-visual>span{color:#716d7d}
+.vizin-art{background:radial-gradient(ellipse at 50% 10%,#d7f0e7,transparent 70%),#edf5f1;color:#173d35}
+.vizin-visual p em,.leadlocal-visual p em{color:#18866d}.vizin-visual>span,.leadlocal-visual>span{color:#5c7c70}
+.leadlocal-art{background:radial-gradient(ellipse at 50% 10%,#d9eee4,transparent 70%),#edf5f1;color:#173d35;border-bottom:5px solid #8dd6ae}
+.codecampus-art{background:radial-gradient(ellipse at 50% 10%,#f2e7bd,transparent 72%),#f7f5ef;color:#202d2a;border-bottom:5px solid #e6bb4f}
+.campus-visual p em{color:#936a0b}.campus-visual>span{color:#59645b}
+@media(max-width:700px){.project-brand-visual{gap:6px;padding:0 6px}.project-brand-visual img{width:96px;height:96px}.project-brand-visual p{font-size:24px}}
