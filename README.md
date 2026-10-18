@@ -11,7 +11,7 @@ Sirva a raiz com um servidor HTTP estático. Mantenha caminhos relativos para co
 - [LinkedIn](https://www.linkedin.com/in/thiago-alcaras): foco em frontend, PicPay, Full Cycle (2025–2026), idiomas e Brush Away.
 - Datas do histórico profissional, Unaerp e e-mail: conteúdo preexistente deste portfólio. Não foram inferidas promoções, métricas ou novas datas.
 - Projetos e tecnologias: READMEs públicos de [PromptLab](https://github.com/thiago-alcaras/promptlab), [Lumina](https://github.com/thiago-alcaras/lumina), [StreamTube](https://github.com/thiago-alcaras/mba-ia-greenfield-project), [Assistente Aurora](https://github.com/thiago-alcaras/mba-ia-desafio-criacao-agente), [A2A/MCP](https://github.com/thiago-alcaras/desafio-a2a-com-mcp) e [Ingestão e busca](https://github.com/thiago-alcaras/mba-ia-desafio-ingestao-busca).
-- Painéis de projetos são ilustrações tipográficas, não screenshots. Retrato e imagem de Brush Away vieram do portfólio original.
+- Painéis de projetos usam as logos e mascotes dos projetos quando disponíveis; os demais são ilustrações tipográficas, não screenshots. O retrato atual foi fornecido pelo autor; a imagem de Brush Away veio do portfólio original.
 - StreamTube está em desenvolvimento: base e autenticação implementadas; upload e processamento planejados.
 
 ## Verificação
